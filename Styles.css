@@ -1,0 +1,32 @@
+body {
+    background-color: hsl(47, 88%, 63%);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* shadow effect */
+.main {
+    box-shadow: 16px 16px 0 -4px black, 16px 16px 0 0 black;
+}
+
+p {
+    font-size: 16px;
+}
+
+.yellow-bg {
+    background-color: hsl(47, 88%, 63%);
+}
+
+.black-text {
+    color: hsl(0, 0%, 7%);
+}
+
+.t-yellow {
+    color: hsl(47, 88%, 63%);
+}
+
+.grey-txt {
+    color: hsl(0, 0%, 50%);
+}
